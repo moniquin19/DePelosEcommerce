@@ -49,7 +49,7 @@ Luego de esto, se realizaron pequeñas entrevistas las cuales arrojaron una seri
 
 Luego de las observaciones y entrevistas realizadas, se procedió a plasmar todo lo obtenido en un mapa de afinidad, el cual suministrará un visual de los problemas observados, quedando de la siguiente manera:
 
-! [AffinityMap](https://image.ibb.co/fEcfx7/Captura_de_pantalla_2018_03_26_a_la_s_1_49_28_p_m.png)
+![AffinityMap](https://image.ibb.co/fEcfx7/Captura_de_pantalla_2018_03_26_a_la_s_1_49_28_p_m.png)
 
 
 
