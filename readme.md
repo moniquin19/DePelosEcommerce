@@ -51,6 +51,64 @@ Luego de las observaciones y entrevistas realizadas, se procedió a plasmar todo
 
 ![AffinityMap](https://image.ibb.co/fEcfx7/Captura_de_pantalla_2018_03_26_a_la_s_1_49_28_p_m.png)
 
+*User Persona*
+
+Después de haber analizado los problemas presentados, se decidió en este caso tener dos user personas una por un lado es el usuario que da a conocer su problema y por el otro está el artesano quien da conocer cada una de sus inquietudes.
+![UserPersona](https://image.ibb.co/kuWt0S/Captura_de_pantalla_2018_03_26_a_la_s_1_54_25_p_m.png)
+
+![UserPersona1](https://image.ibb.co/mBkQEn/Captura_de_pantalla_2018_03_26_a_la_s_1_54_47_p_m.png)
+
+# Journey Map
+
+En el journey map, se plasmó el recorrido que realiza en este caso la user person Constanza, para realizar la compra de cualquier producto para su gato o para ella.
+
+![JourneyMap](https://image.ibb.co/hYBnS7/Captura_de_pantalla_2018_03_26_a_la_s_1_54_55_p_m.png)
+
+# Lista de Característica
+
+*Benchmark*
+
+Para complementar la investigación se realizó un análisis de la competencia, con la finalidad de identificar a los posibles competidores y ver cuales son las estrategias aplicadas.
+
+![Benchmark](https://image.ibb.co/cOcSS7/Captura_de_pantalla_2018_03_26_a_la_s_1_55_09_p_m.png)
+
+![Benchmark1](https://image.ibb.co/m0vT0S/Captura_de_pantalla_2018_03_26_a_la_s_1_55_24_p_m.png)
+
+
+Dentro de este benchmark, se obtuvo que la competencia actual dentro de Chile su prioridad es la venta de productos destinado a los gatos, otros ofrecían productos para los dueños de gatos (cat lover) pero al ingresar a su menú o pestaña no arrojaba ningún resultado. Por otro lado, también se analizaron páginas de otros países, donde al igual que con las páginas nacionales, se analizó su contenido y la arquitectura de la información que suministraban.
+
+# MVP
+
+Para realizar el Producto Mínimo Viable, se trazaron objetivos principales, de acuerdo a los resultados obtenidos de la investigación entre ellos tenemos:
+
+- Un e-commerce que ofreciera productos variados a los usuarios, que a la larga lograrán convertirse en clientes de De Pelos.
+
+- Dar a conocer los productos de los artesanos.
+
+- Facilitar la inclusión de la mano de obra de emprendedores o artesanos del país, que desean vender sus productos.
+
+De acuerdo a lo antes expuesto, el Producto Mínimo Viable, debe contener:
+
+- Un perfil de usuario (Persona o Empresa).
+- Sesión en el menú para Gatos y de accesorios para humanos.
+- Ofrecer productos elaborados por los artesanos (100% a mano) que deseen venderlos por medio del e-commerce de De Pelos y darse a conocer.
+- Pago con tarjetas de crédito o a través de transferencia bancaria.
+- Envío de producto gratis de acuerdo al monto de compra.
+
+# Arquitectura de la Información
+En esta primera etapa el prototipo contará con lo siguiente:
+![AI](https://image.ibb.co/iyKhS7/Captura_de_pantalla_2018_03_26_a_la_s_1_55_31_p_m.png)
+
+# Prototipo
+
+*Sketch*
+
+![Sketch](https://image.ibb.co/fGaHun/Captura_de_pantalla_2018_03_26_a_la_s_2_04_16_p_m.png)
+
+
+
+
+
 
 
 
