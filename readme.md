@@ -9,24 +9,25 @@ Este proyecto a pesar de ser un emprendimiento que busca la integración del bue
 
 De pelos, nace de la necesidad de una Cat Lover ( persona amante y preocupada por el bienestar de los gatos), quien en la búsqueda de nuevos productos, ve un nicho no muy explotado a nivel de comercio electrónico, llama la atención el hecho de que se está en plena era digital y no exista un e-commerce que cubra por completo las necesidades de este target.
 
-	Por ello una vez viendo esta necesidad se decidió formalizar un investigación, la cual suministrarán los datos necesarios, que ayudarán a  validar la factibilidad de este emprendimiento digital.
+Por ello una vez viendo esta necesidad se decidió formalizar un investigación, la cual suministrarán los datos necesarios, que ayudarán a  validar la factibilidad de este emprendimiento digital.
 
-	El proceso de dicha investigación se realizó de la siguiente manera:
+El proceso de dicha investigación se realizó de la siguiente manera:
 ![Proceso Investigación](https://image.ibb.co/juiCc7/Captura_de_pantalla_2018_03_26_a_la_s_12_29_10_p_m.png)
 
 # Descubrimiento e Investigación
 
 ## Planteamiento
-	Para la realización de esta propuesta, se realizó un Kick Off con los StakeHolder que en esta primera etapa contribuirán al desarrollo del proyecto.
+Para la realización de esta propuesta, se realizó un Kick Off con los StakeHolder que en esta primera etapa contribuirán al desarrollo del proyecto.
 
 ## User Research
 
 *Research Cuantitativo*
 
-	Para dar inicio a la investigación se realiza una encuesta de validación de proyecto la cual nos dará a conocer cuál es el nivel de aceptación que podría tener De Pelos dentro del mercado. 
+Para dar inicio a la investigación se realiza una encuesta de validación de proyecto la cual nos dará a conocer cuál es el nivel de aceptación que podría tener De Pelos dentro del mercado. 
 
 Obteniendo los siguientes resultados:
 
+![Encuesta](https://image.ibb.co/b6qKPn/Captura_de_pantalla_2018_03_26_a_la_s_1_21_10_p_m.png)
 
 
 
