@@ -35,6 +35,23 @@ Luego de medir la factibilidad del proyecto, se realizó la observación en terr
 ![FeriaGatoFest](https://image.ibb.co/eJK2c7/Captura_de_pantalla_2018_03_26_a_la_s_1_39_20_p_m.png)
 ![FeriaGatoFest1](https://image.ibb.co/bXeUPn/Captura_de_pantalla_2018_03_26_a_la_s_1_39_47_p_m.png)
 
+Como se mencionó anteriormente, se realizó una observación contextual dentro del GatoFest, para ver el comportamiento del público asistente. Como se puede observar en las fotos habían asistido personas de distintas edades, desde el más pequeño hasta el adulto mayor, de allí se obtuvo lo siguiente:
+
+-Personas eufóricas  con la variedad de productos existente en cada uno de los stand y sus precios.
+-Personas contentas con la información suministrada.
+-Algunas personas molestas por la cantidad de usuarios que habían y por la falta de organización de acuerdo a su criterio.
+
+Luego de esto, se realizaron pequeñas entrevistas las cuales arrojaron una serie de oportunidades para el proyecto. A parte de dar nuevamente con la factibilidad de la idea del e-commerce, se encontró algo inesperado y es que al momento de conversar con los expositores en este caso artesanos, manifestaron su inquietud por la falta de eventos para vender sus productos y darse a conocer a un público al cual posiblemente no llegan solo a través de las redes sociales.
+
+# Síntesis y Definición
+
+*Affinity Map*
+
+Luego de las observaciones y entrevistas realizadas, se procedió a plasmar todo lo obtenido en un mapa de afinidad, el cual suministrará un visual de los problemas observados, quedando de la siguiente manera:
+
+! [AffinityMap](https://image.ibb.co/fEcfx7/Captura_de_pantalla_2018_03_26_a_la_s_1_49_28_p_m.png)
+
+
 
 
 
