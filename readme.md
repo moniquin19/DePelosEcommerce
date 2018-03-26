@@ -37,9 +37,9 @@ Luego de medir la factibilidad del proyecto, se realizó la observación en terr
 
 Como se mencionó anteriormente, se realizó una observación contextual dentro del GatoFest, para ver el comportamiento del público asistente. Como se puede observar en las fotos habían asistido personas de distintas edades, desde el más pequeño hasta el adulto mayor, de allí se obtuvo lo siguiente:
 
--Personas eufóricas  con la variedad de productos existente en cada uno de los stand y sus precios.
--Personas contentas con la información suministrada.
--Algunas personas molestas por la cantidad de usuarios que habían y por la falta de organización de acuerdo a su criterio.
+- Personas eufóricas con la variedad de productos existente en cada uno de los stand y sus precios.
+- Personas contentas con la información suministrada.
+- Algunas personas molestas por la cantidad de usuarios que habían y por la falta de organización de acuerdo a su criterio.
 
 Luego de esto, se realizaron pequeñas entrevistas las cuales arrojaron una serie de oportunidades para el proyecto. A parte de dar nuevamente con la factibilidad de la idea del e-commerce, se encontró algo inesperado y es que al momento de conversar con los expositores en este caso artesanos, manifestaron su inquietud por la falta de eventos para vender sus productos y darse a conocer a un público al cual posiblemente no llegan solo a través de las redes sociales.
 
