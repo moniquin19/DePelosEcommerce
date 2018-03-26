@@ -29,6 +29,13 @@ Obteniendo los siguientes resultados:
 
 ![Encuesta](https://image.ibb.co/b6qKPn/Captura_de_pantalla_2018_03_26_a_la_s_1_21_10_p_m.png)
 
+*Research Cualitativo*
+
+Luego de medir la factibilidad del proyecto, se realizó la observación en terreno y entrevistas, en este caso se tuvo la oportunidad de asistir a un evento en la Región Metropolitana de Santiago, llamado Gato Fest en su novena edición, cabe destacar que este evento es realizado por la fundación adopta, en él se dan charlas de información importante para el cuidado de los gatos y de concientización, a parte de recaudar fondos como gesto de ayuda para el cuidado y bienestar de los gatos que se encuentran en el refugio de esta fundación, es importante resaltar que también se realiza una feria que reúnen alrededor de cuarenta (40) expositores en su mayoría artesanos y tiendas que venden productos para los gatos y sus dueños.
+![FeriaGatoFest](https://image.ibb.co/eJK2c7/Captura_de_pantalla_2018_03_26_a_la_s_1_39_20_p_m.png)
+! [FeriaGatoFest1](https://image.ibb.co/bXeUPn/Captura_de_pantalla_2018_03_26_a_la_s_1_39_47_p_m.png)
+
+
 
 
 
