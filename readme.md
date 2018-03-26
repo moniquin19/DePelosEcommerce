@@ -105,6 +105,15 @@ En esta primera etapa el prototipo contará con lo siguiente:
 
 ![Sketch](https://image.ibb.co/fGaHun/Captura_de_pantalla_2018_03_26_a_la_s_2_04_16_p_m.png)
 
+*Prototipado*
+
+![Prototipo](https://image.ibb.co/exkBLS/Captura_de_pantalla_2018_03_26_a_la_s_2_07_56_p_m.png)
+
+*Testeo*
+
+![Testeo](https://image.ibb.co/ga0gn7/Captura_de_pantalla_2018_03_26_a_la_s_2_04_22_p_m.png)
+
+
 
 
 
