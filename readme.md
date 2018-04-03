@@ -5,7 +5,9 @@ De Pelos es un e-commerce de venta de productos para gatos y para sus dueños, d
 
 Este proyecto a pesar de ser un emprendimiento que busca la integración del buen trabajo realizado por otros emprendedores, también ha sido desarrollado para Laboratoria.
 
-# Necesidad de existencia de un e-commerce para la venta de productos para gatos y sus dueños.
+## Desarrollado para [Laboratoria](http://laboratoria.la)
+
+### Necesidad de existencia de un e-commerce para la venta de productos para gatos y sus dueños.
 
 De pelos, nace de la necesidad de una Cat Lover ( persona amante y preocupada por el bienestar de los gatos), quien en la búsqueda de nuevos productos, ve un nicho no muy explotado a nivel de comercio electrónico, llama la atención el hecho de que se está en plena era digital y no exista un e-commerce que cubra por completo las necesidades de este target.
 
@@ -14,12 +16,12 @@ Por ello una vez viendo esta necesidad se decidió formalizar un investigación,
 El proceso de dicha investigación se realizó de la siguiente manera:
 ![Proceso Investigación](https://image.ibb.co/juiCc7/Captura_de_pantalla_2018_03_26_a_la_s_12_29_10_p_m.png)
 
-# Descubrimiento e Investigación
+### Descubrimiento e Investigación
 
-## Planteamiento
+### Planteamiento
 Para la realización de esta propuesta, se realizó un Kick Off con los StakeHolder que en esta primera etapa contribuirán al desarrollo del proyecto.
 
-## User Research
+### User Research
 
 *Research Cuantitativo*
 
@@ -43,7 +45,7 @@ Como se mencionó anteriormente, se realizó una observación contextual dentro 
 
 Luego de esto, se realizaron pequeñas entrevistas las cuales arrojaron una serie de oportunidades para el proyecto. A parte de dar nuevamente con la factibilidad de la idea del e-commerce, se encontró algo inesperado y es que al momento de conversar con los expositores en este caso artesanos, manifestaron su inquietud por la falta de eventos para vender sus productos y darse a conocer a un público al cual posiblemente no llegan solo a través de las redes sociales.
 
-# Síntesis y Definición
+### Síntesis y Definición
 
 *Affinity Map*
 
@@ -58,13 +60,13 @@ Después de haber analizado los problemas presentados, se decidió en este caso 
 
 ![UserPersona1](https://image.ibb.co/mBkQEn/Captura_de_pantalla_2018_03_26_a_la_s_1_54_47_p_m.png)
 
-# Journey Map
+### Journey Map
 
 En el journey map, se plasmó el recorrido que realiza en este caso la user person Constanza, para realizar la compra de cualquier producto para su gato o para ella.
 
 ![JourneyMap](https://image.ibb.co/hYBnS7/Captura_de_pantalla_2018_03_26_a_la_s_1_54_55_p_m.png)
 
-# Lista de Característica
+### Lista de Característica
 
 *Benchmark*
 
@@ -77,7 +79,7 @@ Para complementar la investigación se realizó un análisis de la competencia, 
 
 Dentro de este benchmark, se obtuvo que la competencia actual dentro de Chile su prioridad es la venta de productos destinado a los gatos, otros ofrecían productos para los dueños de gatos (cat lover) pero al ingresar a su menú o pestaña no arrojaba ningún resultado. Por otro lado, también se analizaron páginas de otros países, donde al igual que con las páginas nacionales, se analizó su contenido y la arquitectura de la información que suministraban.
 
-# MVP
+### MVP
 
 Para realizar el Producto Mínimo Viable, se trazaron objetivos principales, de acuerdo a los resultados obtenidos de la investigación entre ellos tenemos:
 
@@ -95,11 +97,11 @@ De acuerdo a lo antes expuesto, el Producto Mínimo Viable, debe contener:
 - Pago con tarjetas de crédito o a través de transferencia bancaria.
 - Envío de producto gratis de acuerdo al monto de compra.
 
-# Arquitectura de la Información
+### Arquitectura de la Información
 En esta primera etapa el prototipo contará con lo siguiente:
 ![AI](https://image.ibb.co/iyKhS7/Captura_de_pantalla_2018_03_26_a_la_s_1_55_31_p_m.png)
 
-# Prototipo
+### Prototipo
 
 *Sketch*
 
